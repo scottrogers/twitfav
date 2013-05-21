@@ -1,4 +1,4 @@
 twitfav
 =======
 
-Favorites twitter
+Favorites tweets based on search terms
