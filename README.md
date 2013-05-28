@@ -8,11 +8,13 @@ Dependencies:
 oauth2
 pycurl
 
-* In ts.py: 
+* In ts.py:
   * Edit Fields that contain "REPLACE" and replace your TRACK_TERMS with a list of terms you would like to search.
 
 Run from cmd.
 
-`$ python`
+* To get a list of tweets.
+python ts.py run
 
-`>>> import ts`
+* To favorite said list of tweets.
+python ts.py fav
