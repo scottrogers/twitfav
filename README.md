@@ -1,3 +1,8 @@
+------
+
+We've turned this into a service. Check out http://followme.io, connect with twitter to get started! There have been of ton of changes since this script was written, so check it out!
+
+------
 twitfav
 =======
 
